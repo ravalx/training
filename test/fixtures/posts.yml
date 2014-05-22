@@ -1,11 +1,16 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  title: MyString
-  blurb: MyString
-  body: MyText
+  title: Pireszy post
+  blurb: Pierwszy blurb
+  body: Pierwsze cialo
 
 two:
-  title: MyString
-  blurb: MyString
-  body: MyText
+  title: Drugi post
+  blurb: Drugi blurb
+  body: Drugie cialo
+
+three:
+  title: Trzeci post
+  blurb: Trzeci blurb
+  body: Trzecie cialo
